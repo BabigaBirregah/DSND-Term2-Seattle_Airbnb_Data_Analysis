@@ -40,6 +40,7 @@ The main findings are:
 - Interbay, Seward Park, Magnolia, and Lake City are less crowded.
 - The number of bedrooms and bathrooms, the weekly cost of the listing, and the cost of cleaning service are the most important factor in determine listings price.
 
+Non-technical details with deep analysis of the project can be found on the article: [Are accommodation expensive in Seattle?](https://medium.com/@manar.alharbi.94/are-accommodation-expensive-in-seattle-3406a38e84e2)
 
 ## Required Libraries <a name="libraries"></a>
 
